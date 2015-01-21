@@ -6,7 +6,7 @@
 # Returns TRUE if test passes
 test_3by3_matrix <- function() {
     # Load our functions under test
-    source("cacheamatrix.R")
+    source("cachematrix.R")
     
     # An invertable matrix
     x <- c(1,0,5)
